@@ -13,6 +13,7 @@ This game engine can make playing with computer more fun then ever by making the
 
 - [@YadlaMani](https://www.github.com/YadlaMani)
 - [@RishiKumarGade](https://www.github.com/RishiKumarGade)
+- [@poketr](https://github.com/poketr)
 
 
 
