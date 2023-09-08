@@ -107,7 +107,7 @@ class SnakeGameAI:
 
     def _update_ui(self):
         self.display.fill(WHITE)
-        image = pygame.image.load('download.jpeg')
+        image = pygame.image.load('download.jpeg.jpg')
         rect_dis = pygame.Rect(0,0,self.w,self.h)
         self.display.blit(image, (0, 0),rect_dis)
         icon=pygame.image.load('snake.png')

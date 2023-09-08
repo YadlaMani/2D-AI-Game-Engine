@@ -149,7 +149,7 @@ class MarioRunner():
         
         self.player.update()
         self.screen.fill(WHITE)
-        image = pygame.image.load('images.jpeg')
+        image = pygame.image.load('images.jpeg.jpg')
         rect_dis = pygame.Rect(0,0,WIDTH,HEIGHT)
         self.screen.blit(image, (0, 0),rect_dis)
         icon=pygame.image.load('block.png')
