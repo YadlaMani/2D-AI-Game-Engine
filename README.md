@@ -37,6 +37,8 @@ To run this project, you will need to install the following python modules in yo
 
 `pip install IPython`
 
+`pip install plotly`
+
 
 ## Screenshots
  
