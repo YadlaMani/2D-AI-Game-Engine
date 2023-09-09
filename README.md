@@ -22,7 +22,15 @@ This game engine can make playing with computer more fun then ever by making the
 Follow this video to witness the gaming power of the AI.
 
 
-https://www.awesomescreenshot.com/video/20607298?key=86b7e9071919f2ec17cd4e6ca348f361
+https://www.awesomescreenshot.com/video/20626044?key=9c15c754bbc93e634b65547e4d4e7dec
+
+The AI gameplay after Traning
+
+
+https://github.com/YadlaMani/2D-AI-Game-Engine/assets/133841094/6b074a42-c29b-4a5e-b5df-57cc4ed17c7b
+
+
+
 ## Python Modules
 
 To run this project, you will need to install the following python modules in your system.To install run the following commands.
@@ -44,6 +52,32 @@ To run this project, you will need to install the following python modules in yo
  
 Initial Score V/S Games plot of the AI  
 
+Block Ai
 
-![](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![mario initial stage](https://github.com/YadlaMani/2D-AI-Game-Engine/assets/133841094/e8f9a5fa-6d53-4bf4-8f0d-2ab81377cec0)
+
+Snake Ai
+
+![snake intial stage](https://github.com/YadlaMani/2D-AI-Game-Engine/assets/133841094/c0e4454e-4c1b-4031-a4a0-0f67492e31d5)
+
+Space Shooter
+
+![Space shooter initial stage](https://github.com/YadlaMani/2D-AI-Game-Engine/assets/133841094/0906df75-682b-4996-a26b-33ad653f2d55)
+
+Final Score V/S Games plot of the AI
+
+Block Ai
+
+![mario final stage](https://github.com/YadlaMani/2D-AI-Game-Engine/assets/133841094/b10895d5-dead-447a-9cc2-5428e7081190)
+
+Snake Ai
+
+![snake final stage](https://github.com/YadlaMani/2D-AI-Game-Engine/assets/133841094/4c8bc0e0-0591-4b98-bff8-e89bf6c877c2)
+
+Space Shooter
+
+
+
+
+
 
